@@ -44,7 +44,7 @@ requirejs.config({
                 }*/
             }, {
                 id: 'mo',
-                name: 'Россия',
+                name: 'Московская область',
                 label: 'Маршрут МО',
                 rate: 18,
                 color: '#00ff00',
